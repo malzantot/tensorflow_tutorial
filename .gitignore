@@ -1,0 +1,13 @@
+.DS_Store
+*/.DS_Store
+
+# TensorFlow summaries
+events.out*
+*/events.out*
+
+# IPython checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Data dir
+data/
